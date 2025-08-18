@@ -10,21 +10,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-- I am currently a 2nd year PhD student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), mentored by Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou). I earned my bachelor's degree (2019-2023) at [Nankai University](https://www.nankai.edu.cn/).
-- Research interests: Retrieval-augmented Generation, LLM Reasoning, Search Agent, Deep Research
+- I am currently a devoted researcher at the Xiaohongshu Inc. Previously, I finished my Ph.D. degree at Zhejiang University, mentored by Prof. Xinggao Liu. 
+- Research interests: Time-series modeling, Causal Inference, Optimal Transport, Multitask Learning.
 
 <!-- <a href='https://scholar.google.com/citations?user=XDljV4YAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FXiaoxi-Li1%2FXiaoxi-Li1.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
 
 # 🔥 News
-- *2025.05*: Four papers have been accepted by ACL 2025! Looking forward to seeing you in Vienna!
-- *2025.05*: We release 🌐 WebThinker, a deep research agent capable of autonomous web search, navigation, and research report generation during reasoning! See more [details](https://arxiv.org/abs/2504.21776).
-- *2025.02*: Our survey on Generative Information Retrieval has been accepted by TOIS! See more [details](https://arxiv.org/abs/2404.14851).
-- *2025.01*: We release 🔍 Search-o1, enhancing o1-like large reasoning models with agentic search! See more [details](https://arxiv.org/abs/2501.05366).
-- *2024.03*: Our work on unified language models for knowledge-intensive tasks has been accepted by SIGIR 2024! See more [details](https://arxiv.org/abs/2404.14851).
-- *2023.12*: Our unified generative framework for retrieval and QA has been accepted by AAAI 2024! See more [details](https://ojs.aaai.org/index.php/AAAI/article/download/28714/29380).
-
+- *2025.08*: One first-authored paper has been accepted by TNNLS, associated with missing data imputation.
+- *2025.05*: We release 🌐DF-o1, a plugin-and-play approach for enhancing time-series direct forecast performance! See more [details](https://arxiv.org/abs/2505.17847).
+- *2025.04*: One first-authored paper has been accepted by KDD 2025, associated with causal inference and debiased recommendation.
+- *2025.04*: One first-authored paper has been accepted by ICML 2025, associated with implicit feedback recommendation.
+- *2025.01*: Two first-authored papers have been accepted by ICLR 2025, associated with time-series modeling.
+- *2025.01*: One first-authored paper has been accepted by ACM TOIS, associated with causal inference and debiased recommendation.
 
 
 # 📝 Publications
