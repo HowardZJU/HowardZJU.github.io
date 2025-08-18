@@ -29,6 +29,21 @@ redirect_from:
 # 📝 Publications
 <!-- \* for corresponding author. -->
 
+## Time-series modeling and sequence prediction
+### On the bias of learning objective and debiasing
+
+### On the efficiency of architecture and improvement
+
+### On the industrial applications
+
+## User preference modeling and recommendation system
+### On the preference modeling with biased feedback
+
+### On the preference modeling with implicit feedback
+
+## Missing data imputation and completion
+### 
+
 ## As the First Author
 
 ### 2025
