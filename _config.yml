@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoxi Li"
+title                    : "Hao Wang"
 description              : ""
-repository               : "xiaoxi-li1.github.io"
+repository               : "wangh.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoxi Li (李晓熙)"
-  avatar           : "images/xiaoxi.jpg"
-  bio              : "PhD @ RUC"
+  name             : "Hao Wang (王浩)"
+  avatar           : "images/wanghao.jpg"
+  # bio              : "PhD @ RUC"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=XDljV4YAAAAJ"
-  email            : "xiaoxi_li@ruc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=2ZMnbaoAAAAJ&hl=en"
+  email            : "Ho-ward@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sunnynexus"
+  github           : "HowardZJU"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/135/5865.html"
-  orcid            : "https://orcid.org/0009-0003-0708-418X"
+  dblp             : "https://dblp.org/pid/347/3761.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3243-487X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "XiaoxiLi0111"
+  twitter          :
   vine             :
   weibo            :
   xing             :
