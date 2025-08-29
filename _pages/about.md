@@ -27,61 +27,85 @@ redirect_from:
 
 
 # 📝 Publications
-\* for corresponding author.
+\$\dagger$ for corresponding author.
 
 ## Time-series modeling and sequence prediction
 
 - `ICLR 2025` [Fredf: Learning to forecast in the frequency domain](https://arxiv.org/abs/2405.13522), **Hao Wang**, Licheng Pan, Zhichao Chen, Degui Yang, Sen Zhang, Yifei Yang, Xinggao Liu, Haoxuan Li, Dacheng Tao. <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13476522600769876193"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AYFjsv_pBGBYC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
-
-- `CIKM 2023` [Monotonic neural ordinary differential equation: Time-series forecasting for cumulative data](https://dl.acm.org/doi/abs/10.1145/3583780.3615487) Zhichao Chen, Leilei Ding, Zhixuan Chu, Yucheng Qi, Jianmin Huang, Hao Wang. <a href="https://scholar.google.com/scholar?cites=4359764714401155621&as_sdt=2005&sciodt=0,5&hl=zh-CN"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3A5nxA0vEk-isC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a
+- `ICLR 2025` [Optimal transport for time series imputation](https://openreview.net/pdf?id=xPTzjpIQNp), **Hao Wang**,  Haoxuan Li, Xu Chen, Mingming Gong, Zhichao Chen. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=1034821493227754692&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AmaZDTaKrznsC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
 - `TAI 2023` [An accurate and interpretable framework for trustworthy process monitoring](https://ieeexplore.ieee.org/document/10240000), **Hao Wang**, Zhiyu Wang, Yunlong Niu, Zhaoran Liu, Haozhe Li, Yilin Liao, Yuxin Huang, Xinggao Liu <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=13739297525213981049&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3A0EnyYjriUFMC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
-- `TII 2022` [Modeling task relationships in multivariate soft sensor with balanced mixture-of-experts](https://ieeexplore.ieee.org/document/9941779), Yuxin Huang, Eric Hao Wang, Zhaoran Liu, Licheng Pan, Haozhe Li, Xinggao Liu. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=6532088613544138697&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3A9yKSN-GCB0IC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+- `Arxiv` [TransDF: Time-Series Forecasting Needs Transformed Label Alignment](https://arxiv.org/pdf/2505.17847?) **Hao Wang**, Licheng Pan, Zhichao Chen, Xu Chen, Qingyang Dai, Lei Wang, Haoxuan Li, Zhouchen Lin
 
-- `ICLR 2025` [Optimal transport for time series imputation](https://openreview.net/pdf?id=xPTzjpIQNp), **Hao Wang**,  Haoxuan Li, Xu Chen, Mingming Gong, Zhichao Chen. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=1034821493227754692&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AmaZDTaKrznsC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+- `Arxiv` [DeepFilter: An Instrumental Baseline for Accurate and Efficient Process Monitoring](https://arxiv.org/abs/2501.01342) **Hao Wang**, Zhichao Chen, Licheng Pan, Xiaoyu Jiang, Yichen Song, Qunshan He, Xinggao Liu.
+
+- `CIKM 2023` [Monotonic neural ordinary differential equation: Time-series forecasting for cumulative data](https://dl.acm.org/doi/abs/10.1145/3583780.3615487) Zhichao Chen, Leilei Ding, Zhixuan Chu, Yucheng Qi, Jianmin Huang, **Hao Wang$^\dagger$**. <a href="https://scholar.google.com/scholar?cites=4359764714401155621&as_sdt=2005&sciodt=0,5&hl=zh-CN"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3A5nxA0vEk-isC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+
+- `TASE 2024` [TMoE-P: Toward the Pareto Optimum for Multivariate Soft Sensors](https://ieeexplore.ieee.org/abstract/document/10778061) Licheng Pan, **Hao Wang$^\dagger$**, Zhichao Chen, Yuxin Huang, Zhaoran Liu, Qunshan He, Xinggao Liu.
+
+- `TASE 2025` [Controllable Mixture-of-Experts for Multivariate Soft Sensors](https://scholar.google.com/scholar?oi=bibs&cluster=1832026519716649949&btnI=1&hl=zh-CN) Licheng Pan, **Hao Wang$^\dagger$**, Zhichao Chen, Yuxin Huang, Yunlong Niu, Zhaoran Liu, Qunshan He, Xinggao Liu.
+
+- `Arxiv` [Mixture of Low Rank Adaptation with Partial Parameter Sharing for Time Series Forecasting](https://arxiv.org/abs/2505.17872) Licheng Pan, Zhichao Chen, Haoxuan Li, Guangyi Liu, Zhijian Xu, Zhaoran Liu, **Hao Wang$^\dagger$**, Ying Wei.
+
+
+- `TII 2022` [Modeling task relationships in multivariate soft sensor with balanced mixture-of-experts](https://ieeexplore.ieee.org/document/9941779), Yuxin Huang, **Hao Wang**, Zhaoran Liu, Licheng Pan, Haozhe Li, Xinggao Liu. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=6532088613544138697&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3A9yKSN-GCB0IC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+
+- `TSMC 2024` [Improving data-driven inferential sensor modeling by industrial knowledge: A Bayesian perspective](https://ieeexplore.ieee.org/abstract/document/10759849/) Zhichao Chen, **Hao Wang**, Zhihuan Song, Zhiqiang Ge.
+
+- `Arxiv` [OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain](https://arxiv.org/abs/2505.08550) Wenzhen Yue, Yong Liu, Haoxuan Li, **Hao Wang**, Xianghua Ying, Ruohao Guo, Bowei Xing, Ji Shi.
+
+- `TII 2024` [Analyzing and improving supervised nonlinear dynamical probabilistic latent variable model for inferential sensors](https://ieeexplore.ieee.org/abstract/document/10634990/) Zhichao Chen, **Hao Wang**, Guofei Chen, Yiran Ma, Le Yao, Zhiqiang Ge, Zhihuan Song.
+
+- `Arxiv` [Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective](https://arxiv.org/abs/2405.13522), Zhijian Xu, **Hao Wang**,Yuxuan Bian, Jianyuan Zhong, Xiangyu Wen, Qiang Xu. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=14914313105527877637&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3ABqipwSGYUEgC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
 
 ## User preference modeling and recommendation system
 
-
-- `ICLR 2023` [Learnable behavior control: Breaking atari human world records via sample-efficient behavior selection](https://openreview.net/forum?id=FeWvD0L_a4)
-Jiajun Fan, Yuzheng Zhuang, Yuecheng Liu, Jianye Hao, Bin Wang, Jiangcheng Zhu, **Hao Wang**, Shu-Tao Xia
-<a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=9578396533066026541&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AKlAtU1dfN6UC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
-
-
 - `SIGIR 2022` [ESCM2: Entire space counterfactual multi-task model for post-click conversion rate estimation](https://dl.acm.org/doi/abs/10.1145/3477495.3531972), **Hao Wang**, Tai-wei Chang, Tianqiao Liu, Jianmin Huang, Zhichao Chen, Chao Yu, Ruopeng Li, Weizhi Chu. <a href="https://github.com/PaddlePaddle/PaddleRec/tree/master/models/multitask/escm2"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/PaddlePaddle/PaddleRec?style=flat&logo=github&logoColor=black&labelColor=ffffff&color=ffffff&label=Stars"></a> <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16997026825101027189"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3ATFP_iSt0sucC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+
+- `TIFS 2024` [Entire space counterfactual learning for reliable content recommendations](https://ieeexplore.ieee.org/abstract/document/10795195), **Hao Wang**, Zhichao Chen, Zhaoran Liu, Haozhe Li, Degui Yang, Xinggao Liu, Haoxuan Li. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=9493954090151553780,9941779073046035804&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AiH-uZ7U-co4C%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+
+- `ICML 2025` [Unbiased Recommender Learning from Implicit Feedback via Weakly Supervised Learning](https://openreview.net/pdf?id=0E5rZOGA13) **Hao Wang**, Zhichao Chen, Haotian Wang, Yanchao Tan, Licheng Pan, Tianqiao Liu, Xu Chen, Haoxuan Li, Zhouchen Lin.
+
+- `KDD 2025` [Proximity matters: Local proximity enhanced balancing for treatment effect estimation](https://dl.acm.org/doi/abs/10.1145/3711896.3737092) **Hao Wang**, Zhichao Chen, Zhaoran Liu, Xu Chen, Haoxuan Li, Zhouchen Lin.
+
+- `TOIS 2025` [Debiased Recommendation via Wasserstein Causal Balancing](https://dl.acm.org/doi/abs/10.1145/3725731) **Hao Wang**, Zhichao Chen, Honglei Zhang, Zhengnan Li, Licheng Pan, Haoxuan Li, Mingming Gong.
 
 - `NeurIPS 2023` [Optimal transport for treatment effect estimation](https://arxiv.org/abs/2306.05624), **Hao Wang**, Zhichao Chen, Jiajun Fan, Haoxuan Li, Tianqiao Liu, Weiming Liu, Quanyu Dai, Yichao Wang, Zhenhua Dong, Ruiming Tang. <a href=https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=5238722391693176529&as_sdt=5><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3A9ZlFYXVOiuMC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
 - `NeurIPS 2023` [Removing hidden confounding in recommendation: a unified multi-task learning approach](https://arxiv.org/abs/2306.05624), Haoxuan Li, Kunhan Wu, Chunyuan Zheng, Yanghao Xiao, **Hao Wang**, Zhi Geng, Fuli Feng, Xiangnan He, Peng Wu. <a href="https://scholar.google.com/scholar?cites=9407503735822325447&as_sdt=2005&sciodt=2005&hl=zh-CN"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AkNdYIx-mwKoC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
+- `KDD 2024` [Debiased recommendation with noisy feedback](https://dl.acm.org/doi/abs/10.1145/3637528.3671915) Haoxuan Li, Chunyuan Zheng, Wenjie Wang, **Hao Wang**, Fuli Feng, Xiao-Hua Zhou. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=7924899009426297096&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3A-f6ydRqryjwC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
-- `Arxiv` [Llm-powered gui agents in phone automation: Surveying progress and prospects](https://arxiv.org/pdf/2504.19838) Guangyi Liu, Pengxiang Zhao, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxiang Chai, Yue Han, Shuai Ren, **Hao Wang**, Xiaoyu Liang, Wenhao Wang, Tianze Wu, Linghao Li, Guanjing Xiong, Yong Liu, Hongsheng Li. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=6050737529106194091&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3ABqipwSGYUEgC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+- `ICML 2024` [Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Collaborative Filtering](https://proceedings.mlr.press/v235/li24cq.html) Haoxuan Li, Chunyuan Zheng, Shuyi Wang, Kunhan Wu, **Hao Wang**, Peng Wu, Zhi Geng, Xu Chen, Xiao-Hua Zhou. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=18385466742702955812&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AqUcmZB5y_30C%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
+- `Arxiv` [Convformer: Revisiting transformer for sequential user modeling](https://arxiv.org/abs/2308.02925) **Hao Wang**, Jianxun Lian, Mingqi Wu, Haoxuan Li, Jiajun Fan, Wanyue Xu, Chaozhuo Li, Xing Xie.
 
-- `Arxiv` [Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective](https://arxiv.org/abs/2405.13522), Zhijian Xu, Yuxuan Bian, Jianyuan Zhong, Xiangyu Wen, Qiang Xu. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=14914313105527877637&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3ABqipwSGYUEgC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+- `ICLR 2023` [Learnable behavior control: Breaking atari human world records via sample-efficient behavior selection](https://openreview.net/forum?id=FeWvD0L_a4) Jiajun Fan, Yuzheng Zhuang, Yuecheng Liu, Jianye Hao, Bin Wang, Jiangcheng Zhu, **Hao Wang**, Shu-Tao Xia <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=9578396533066026541&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AKlAtU1dfN6UC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
-
-- `TIFS 2024` [Entire space counterfactual learning for reliable content recommendations](https://ieeexplore.ieee.org/abstract/document/10795195), **Hao Wang**, Zhichao Chen, Zhaoran Liu, Haozhe Li, Degui Yang, Xinggao Liu, Haoxuan Li. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=9493954090151553780,9941779073046035804&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AiH-uZ7U-co4C%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
-
-
-- `KDD 2024` [Debiased recommendation with noisy feedback](https://dl.acm.org/doi/abs/10.1145/3637528.3671915) Haoxuan Li, Chunyuan Zheng, Wenjie Wang, Hao Wang, Fuli Feng, Xiao-Hua Zhou. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=7924899009426297096&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3A-f6ydRqryjwC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
-
-- `ICML 2024` [Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Collaborative Filtering](https://proceedings.mlr.press/v235/li24cq.html) Haoxuan Li, Chunyuan Zheng, Shuyi Wang, Kunhan Wu, Eric Wang, Peng Wu, Zhi Geng, Xu Chen, Xiao-Hua Zhou. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=18385466742702955812&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AqUcmZB5y_30C%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
-
-- `NeurIPS 2024` [Rethinking the diffusion models for missing data imputation: A gradient flow perspective](https://proceedings.neurips.cc/paper_files/paper/2024/file/cb1ba6a42814bf83974ed45ffdb72efa-Paper-Conference.pdf)Zhichao Chen, Haoxuan Li, Fangyikang Wang, Odin Zhang, Hu Xu, Xiaoyu Jiang, Zhihuan Song, Hao Wang. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=284828830794565997,8668045224130980397&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3Ae5wmG9Sq2KIC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
-
-- `TII 2024` [Spot-i: Similarity preserved optimal transport for industrial iot data imputation](https://scholar.google.com/scholar?oi=bibs&cluster=17035339579616102171&btnI=1&hl=zh-CN) Hao Wang, Zhichao Chen, Zhaoran Liu, Licheng Pan, Hu Xu, Yilin Liao, Haozhe Li, Xinggao Liu. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=17035339579616102171&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3ATQgYirikUcIC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
-
-- `AAAI 2024` [Improving neural network generalization on data-limited regression with doubly-robust boosting](https://ojs.aaai.org/index.php/AAAI/article/download/30071/31885) Hao Wang. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=4330128582453261374&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AdhFuZR0502QC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
-
-- `TII 2024` [Denoising diffusion straightforward models for energy conversion monitoring data imputation](https://ieeexplore.ieee.org/abstract/document/10568989/) Hu Xu, Zhaoran Liu, Hao Wang, Changdi Li, Yunlong Niu, Wenhai Wang, Xinggao Liu. <a href="https://scholar.google.com/scholar?oi=bibs&hl=zh-CN&cites=18086086124372360332&as_sdt=5"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AmB3voiENLucC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
+- `WWW 2024` [A Data-Centric Multi-Objective Learning Framework for Responsible Recommendation Systems](https://dl.acm.org/doi/abs/10.1145/3589334.3645324) Xu Huang, Jianxun Lian, **Hao Wang**, Hao Liao, Defu Lian, Xing Xie.
 
 
 
-<!-- ## Low-quality data modeling and recovery -->
+## Low-quality data modeling and recovery
+
+- `ICLR 2025` [Optimal transport for time series imputation](https://openreview.net/pdf?id=xPTzjpIQNp), **Hao Wang**, Zhengnan Li, Haoxuan Li, Xu Chen, Mingming Gong, Zhichao Chen. 
+
+- `AAAI 2024` [Improving neural network generalization on data-limited regression with doubly-robust boosting](https://ojs.aaai.org/index.php/AAAI/article/download/30071/31885) **Hao Wang$^\dagger$**. 
+
+- `TNNLS 2025` [Robust Missing Value Imputation with Proximal Optimal Transport for Low-quality IIoT Data] **Hao Wang**, Zhichao Chen, Hui Zheng, Degui Yang, Dangjun Zhao, Buge Liang.
+
+- `TII 2024` [Spot-i: Similarity preserved optimal transport for industrial iot data imputation](https://scholar.google.com/scholar?oi=bibs&cluster=17035339579616102171&btnI=1&hl=zh-CN) **Hao Wang**, Zhichao Chen, Zhaoran Liu, Licheng Pan, Hu Xu, Yilin Liao, Haozhe Li, Xinggao Liu. 
+
+- `TASE 2024` [Lspt-d: Local similarity preserved transport for direct industrial data imputation](https://ieeexplore.ieee.org/abstract/document/10568989/) **Hao Wang**, Xinggao Liu, Zhaoran Liu, Haozhe Li, Yilin Liao, Yuxin Huang, Zhichao Chen. 
+
+- `NeurIPS 2024` [Rethinking the diffusion models for missing data imputation: A gradient flow perspective](https://proceedings.neurips.cc/paper_files/paper/2024/file/cb1ba6a42814bf83974ed45ffdb72efa-Paper-Conference.pdf)Zhichao Chen, Haoxuan Li, Fangyikang Wang, Odin Zhang, Hu Xu, Xiaoyu Jiang, Zhihuan Song, **Hao Wang$^\dagger$**. 
+
+- `CIKM 2024` [Unsupervised anomaly detection & diagnosis: A stein variational gradient descent approach](https://dl.acm.org/doi/abs/10.1145/3583780.3615167) Zhichao Chen, Leilei Ding, Jianmin Huang, Zhixuan Chu, Qingyang Dai, **Hao Wang$^\dagger$**. 
+
+- `TII 2024` [Denoising diffusion straightforward models for energy conversion monitoring data imputation](https://ieeexplore.ieee.org/abstract/document/10568989/) Hu Xu, Zhaoran Liu, **Hao Wang**, Changdi Li, Yunlong Niu, Wenhai Wang, Xinggao Liu. 
 
 
 
@@ -98,20 +122,11 @@ Jiajun Fan, Yuzheng Zhuang, Yuecheng Liu, Jianye Hao, Bin Wang, Jiangcheng Zhu, 
 
 ## Missing data imputation and completion -->
 
-
-
-
-
-
-# 📖 Educations
-- 2023.09 - Present, PhD, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing.
-- 2019.09 - 2023.06, Bachelor, College of Artificial Intelligence, Nankai University, Tianjin.
-
 <!-- # Experiences
 - *2021.12 - 2022.12*, Research Intern, Poisson Lab, Huawei <img src="./images/huawei.png" style="width: 4em;">. Supervised by [Xinyu Zhang](https://scholar.google.com/citations?user=W_WZEQEAAAAJ)
 - *2018.8 - 2019.6*, Research Intern, XiaoIce, Microsoft Asia <img src="./images/microsoft.png" style="width: 4em;">. Supervised by [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/)  
 - *2016.9 - 2019.6*, Research Assistant, Beijing Key Lab of Big Data Management and Analysis Methods. Supervised by [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ)
-- *2016.6 - 2016.9*, Software Engineer, Infosys Technology Limited <img src="./images/Infosys.png" style="width: 3em;">. Supervised by [Anjaneyulu Pasala](https://in.linkedin.com/in/anjaneyulupasala) -->
+- *2021.7 - 2022.6*, Research Intern, Infosys Technology Limited <img src="./images/Infosys.png" style="width: 3em;">. Supervised by [Anjaneyulu Pasala](https://in.linkedin.com/in/anjaneyulupasala) -->
 
 <!-- # Academic Services
 - AC/SPC: ACL Rolling Review
