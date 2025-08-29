@@ -122,11 +122,10 @@ redirect_from:
 
 ## Missing data imputation and completion -->
 
-<!-- # Experiences
-- *2021.12 - 2022.12*, Research Intern, Poisson Lab, Huawei <img src="./images/huawei.png" style="width: 4em;">. Supervised by [Xinyu Zhang](https://scholar.google.com/citations?user=W_WZEQEAAAAJ)
-- *2018.8 - 2019.6*, Research Intern, XiaoIce, Microsoft Asia <img src="./images/microsoft.png" style="width: 4em;">. Supervised by [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/)  
-- *2016.9 - 2019.6*, Research Assistant, Beijing Key Lab of Big Data Management and Analysis Methods. Supervised by [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ)
-- *2021.7 - 2022.6*, Research Intern, Infosys Technology Limited <img src="./images/Infosys.png" style="width: 3em;">. Supervised by [Anjaneyulu Pasala](https://in.linkedin.com/in/anjaneyulupasala) -->
+# Experiences
+- *2025.6 - Present*, Researcher, Xiaohongshu Inc. <img src="./images/xhs.svg" style="width: 4em;">. 
+- *2022.6 - 2023.6*, Research Assistant, Microsoft Research Asia. <img src="./images/microsoft.png" style="width: 3em;">. Supervised by [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/downloads/) and [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
+- *2021.7 - 2022.6*, Research Intern, Alibaba <img src="./images/alibaba.jpg" style="width: 3em;">. Supervised by [Wei Chu](https://weichu.github.io)
 
 <!-- # Academic Services
 - AC/SPC: ACL Rolling Review
